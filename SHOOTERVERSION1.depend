@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635871702 source:c:\codeblocks programs\yt practice\click to select\shooterversion1\main.cpp
+	<graphics.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+
